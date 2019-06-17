@@ -1,0 +1,19 @@
+{% macro translations_for(article) %}
+
+{% if SHOW_TRANSLATIONS_LABEL %}
+	[{% if article.translations %}
+	Translations:
+	[
+	{{ article.lang | lookup_lang_name }},
+		{% for translation in article.translations %}
+			<a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang | lookup_lang_name }}</a>{% if not loop.last %}, {% endif %}
+		{% endfor %}
+	{% else %}
+		No translations
+	{% endif %}]
+</BR>
+</BR>
+{% endif %}
+
+
+{% endmacro %}
