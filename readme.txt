@@ -1,6 +1,6 @@
 cd στο gislab root dir και ενεργοποίηση του virtualenv:
 
-source gislab/bin/activate
+conda activate gislab
 
 
 Αλλαγές περιεχομένου στο ./content
