@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Εργαστήριο Χωρικής Ανάλυσης, Γεωγραφικών Πληροφοριακών Συστημάτων και Θεματικής Χαρτογραφίας - drastiriotites</title><link href="http://www.gislab.gr/" rel="alternate"></link><link href="http://www.gislab.gr/feeds/drastiriotites.atom.xml" rel="self"></link><id>http://www.gislab.gr/</id><updated>2020-11-20T12:40:00+02:00</updated><subtitle>Τμήμα Μηχανικών Χωροταξίας, Πολεοδομίας και Περιφερειακής Ανάπτυξης &lt;BR&gt; Πανεπιστήμιο Θεσσαλίας, Πολυτεχνική Σχολή</subtitle><entry><title>Workshop: Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες</title><link href="http://www.gislab.gr/hellasgi.html" rel="alternate"></link><published>2020-11-20T12:40:00+02:00</published><updated>2020-11-20T12:40:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:www.gislab.gr,2020-11-20:/hellasgi.html</id><summary type="html">&lt;p class="first last"&gt;Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Η Ελληνική Εταιρεία Γεωγραφικών Συστημάτων Πληροφοριών (&lt;a class="reference external" href="https://hellasgi.gr/"&gt;HellasGIs&lt;/a&gt;) στο πλαίσιο των δραστηριοτήτων της διοργανώνει την &lt;strong&gt;Τετάρτη 2 Δεκεμβρίου 2020 και ώρα 4-5 μμ.&lt;/strong&gt; διαδικτυακό εκπαιδευτικό εργαστήριο (workshop) με θέμα: &amp;quot;Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες&amp;quot;, το οποίο θα παρουσιαστεί από το Εργαστήριο Χωρικής Ανάλυσης, Γεωγραφικών Πληροφοριακών Συστημάτων και Θεματικής Χαρτογραφίας του Τμήματος Μηχανικών Χωροταξίας, Πολεοδομίας και Περιφερειακής Ανάπτυξης (Πανεπ. Θεσσαλίας)&lt;/p&gt;
+&lt;p&gt;Δικαίωμα συμμετοχής έχουν τα ταμειακά εντάξει μέλη της HellasGIs.
+Για τον καλύτερο προγραμματισμό της εκδήλωσης, παρακαλείσθε να δηλώσετε τη συμμετοχή σας (&lt;a class="reference external" href="mailto:info.hellasgis&amp;#64;gmail.com"&gt;info.hellasgis&amp;#64;gmail.com&lt;/a&gt;)  έως την Δευτέρα 30/11.&lt;/p&gt;
+&lt;p&gt;Αναλυτικές πληροφορίες για το workshop:&lt;/p&gt;
+&lt;p&gt;Στόχος του εργαστηρίου είναι να παρουσιαστούν στον χρήστη οι δυνατότητες που προσφέρει η γλώσσα προγραμματισμού R για τον υπολογισμό δεικτών με τα δεδομένα νυχτερινών φώτων VIIRS Nighttime Day/Night Band Composites. Με πρακτικά παραδείγματα, θα υπολογιστεί, και θα οπτικοποιηθεί σε διαγράμματα και χάρτες ο δείκτης Sum of Lights (SoL) ανά μήνα, τρίμηνο και έτος για ένα πλήθος περιοχών. Κατά την διάρκεια του εργαστηρίου θα επιδειχθεί μια σειρά τυπικών αλλά αναγκαίων διαδικασιών τόσο επί των διανυσματικών όσο και επί των ψηφιδωτών δεδομένων.  Για περισσότερες πληροφορίες, μπορείτε να ακολουθήσετε το σύνδεσμο:
+&lt;a class="reference external" href="https://github.com/kokkytos/hellasgi2020"&gt;https://github.com/kokkytos/hellasgi2020&lt;/a&gt;&lt;/p&gt;
+</content><category term="workshop"></category><category term="R"></category><category term="raster"></category><category term="stack"></category><category term="hellasgi"></category></entry><entry><title>Workshop: Επεξεργασία δορυφορικών Δεδομένων/Εικόνων με την χρήση ανοιχτού λογισμικού</title><link href="http://www.gislab.gr/workshop.html" rel="alternate"></link><published>2019-06-15T23:00:00+03:00</published><updated>2010-10-04T18:40:00+03:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:www.gislab.gr,2019-06-15:/workshop.html</id><summary type="html">&lt;p class="first last"&gt;Επεξεργασία δορυφορικών Δεδομένων/Εικόνων με την χρήση ανοιχτού  λογισμικού&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Στα πλαίσια της χρηματοδοτούμενης από την ΓΓΕΤ και το ΕΛΙΔΕΚ Μεταδιδακτορικής Έρευνας με τίτλο:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;Estimating Seasonal Population via Night-Time Satellite Images&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Θα διοργανωθεί την &lt;strong&gt;Πέμπτη 27 Ιουνίου 2019&lt;/strong&gt; ανοιχτό workshop/hands-on training με
+θέμα την “Επεξεργασία δορυφορικών Δεδομένων/Εικόνων με την χρήση ανοιχτού
+λογισμικού”.&lt;/p&gt;
+&lt;p&gt;Το workshop θα πραγματοποιηθεί στους χώρους του εργαστηρίου: Χωρικής
+Ανάλυσης, Γεωγραφικών Πληροφοριακών Συστημάτων και Θεματικής Χαρτογραφίας (
+www.gislab.gr ), 1ος όροφος, ΤμΧΠΠΑ, Εργαστηριο Β1.&lt;/p&gt;
+&lt;p&gt;Η συμμετοχή στο workshop είναι δωρεάν άλλα θα τηρηθεί σειρά προτεραιότητας (καθώς ο μέγιστος αριθμός
+συμμετεχόντων είναι 15 άτομα).&lt;/p&gt;
+&lt;p&gt;Θα δοθούν βεβαιώσεις παρακολούθησης.&lt;/p&gt;
+&lt;p&gt;Δηλώσεις συμμετοχής μέχρι και Τρίτη 25
+Ιουνίου στο email: pbaltas(at)uth.gr&lt;/p&gt;
+&lt;p&gt;Το workshop απευθύνεται σε φοιτητές και απόφοιτους που έχουν κάποια σχέση με χωρικά δεδομενα.
+Χωρίς να χρειάζεται προηγούμενη εμπειρία στην R ή στο SNAP.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Πρόγραμμα&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:00-10:30  :Προσέλευση – Ice-Breaker Coffee&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10:30-11:00 παρουσίαση&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Estimating Seasonal Population via Night-Time Satellite Images&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;εισηγητής: Μπαλτάς Παύλος, Μεταδιδάκτορας ΤμΧΠΠΑ, ΕΥ προγράμματος.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11:00-13:00 εργαστήριο (hands-on training)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;εισηγητής: Λεωνίδας Λιάκος, υπ.διδάκτωρ ΤμΧΠΠΑ&lt;/p&gt;
+&lt;p&gt;Στόχος του εργαστηρίου είναι η εξοικείωση του χρήστη με το πακέτο raster της R το οποίο προσφέρει την δυνατότητα ανάγνωσης ψηφιδωτών δεδομένων (raster) και επεξεργασίας τους (crop, reclassify, reproject, resample κτλ.). Επιπλέον, θα επικεντρωθεί στην κλάση stack η οποία δημιουργεί συστοιχίες ψηφιδωτών δεδομένων, κατάλληλες για χρονοσειρές και πολυκαναλικές εικόνες καθώς σε συναρτήσεις που εκμεταλλεύονται την κλάση stack για τον υπολογισμό δεικτών και την διευκόλυνση της ανάλυσης για πολλαπλά δεδομένα (stackApply, calc, cellStats).Η διεξαγωγή του εργαστηρίου θα γίνει μέσω παραδειγμάτων και με την χρήση δεδομένων νυκτερινών φώτων DMSP/OLS.&lt;/p&gt;
+&lt;p&gt;Προτείνεται η προεγκατάσταση απο τους συμμετέχοντες του στατιστικού πακέτου R και το περιβάλλον εργασίας  R studio.(οδηγίες τελευταία σελίδα)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13:00-14:00 Διάλειμμα - Ελαφρύ Γεύμα (μπουφές)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;14:00-16:00 εργαστήριο (hands-on training)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Δορυφορικά Δεδομένα Ραντάρ: Δημιουργία Ψηφιακού Μοντέλου Εδάφους  (SAR Interferometry)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;εισηγητής: Βασίλειος Λέτσιος, υπ.διδάκτωρ ΤΜΧΠΠΑ&lt;/p&gt;
+&lt;p&gt;Η παρουσίαση θα χωριστεί σε δύο ενότητες όπου θα καλυφθεί λεπτομερώς η τεχνική της Συμβολομετρίας. Η πρώτη ενότητα αφορά την βασική θεωρία των δορυφορικών συστημάτων ραντάρ καθώς η κατανόησή της είναι σημαντική για την εισαγωγή στην επεξεργασία. Η δεύτερη ενότητα θα είναι πρακτικού χαρακτήρα καθώς θα γίνει αναφορά στις βασικές πλατφόρμες συλλογής δωρεάν δεδομένων ραντάρ και στην συνέχεια θα ακολουθήσει η επεξεργασία δεδομένων κάνοντας χρήση της Συμβολομετρίας. Ο στόχος θα είναι η δημιουργία Ψηφιακού Μοντέλου Εδάφους.&lt;/p&gt;
+&lt;p&gt;Προτείνεται η προεγκατάσταση απο τους συμμετέχοντες του λογισμικού SNAP και η λήψη και αποθηκευση του αλγορίθμου SNAPHU στον υπολογιστή τους. (οδηγίες τελευταία σελίδα)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16:00-16:30 Διάλειμμα – Καφές&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16:30-18:00 παρουσίαση&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Χωρικός Σχεδιασμός, Εκτιμήσεις και προβολές με την χρήση του Geodesign&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;εισηγήτρια: Ηλιάνα-Κυριακή Σταυρακάκη, τελειόφοιτη ΤμΧΠΠΑ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18:00-19:00  Συζήτηση/Ανοιχτός Διάλογος&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;γύρω από τα θέματα του Workshop με συντονιστές τα μέλη της ερευνητικής ομάδας τους κ.κ.
+Δημήτρη Σταθάκη, Αν.Καθηγητής,  και Ιωάννη Φαρασλή, ΕΔΙΠ, ΤμΧΠΠΑ.&lt;/p&gt;
+&lt;p&gt;Η έννοια του workshop/hands-on training προϋποθέτει ότι ο κάθε συμμετέχοντας θα πρέπει να φέρει μαζί του τον φορητό του υπολογιστή ώστε να μπορέσει να αναπαράγει σε πραγματικό χρόνο τα παραδείγματα των εισηγητών.&lt;/p&gt;
+&lt;p&gt;Το λογισμικό/α που ευκταίο θα ήταν να είναι εγκατεστημένο/α στους φορητούς υπολογιστές των συμμετεχόντων είναι:&lt;/p&gt;
+&lt;p&gt;για το πρώτο εργαστήριο&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;R - &lt;a class="reference external" href="https://www.r-project.org/"&gt;https://www.r-project.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;R Studio - &lt;a class="reference external" href="https://www.rstudio.com/"&gt;https://www.rstudio.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Τα πακέτα &lt;em&gt;raster&lt;/em&gt;, &lt;em&gt;ggplot2&lt;/em&gt;, &lt;em&gt;rasterVis&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;για το δεύτερο εργαστήριο&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;SNAP&lt;/em&gt; -&lt;a class="reference external" href="https://step.esa.int/main/download/snap-download/"&gt;https://step.esa.int/main/download/snap-download/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SNAPHU&lt;/em&gt; -&lt;a class="reference external" href="https://step.esa.int/main/third-party-plugins-2/snaphu/"&gt;https://step.esa.int/main/third-party-plugins-2/snaphu/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Σε κάθε περίπτωση οποιαδήποτε πρόβλημα εγκατάστασης προκύψει θα επιλυθεί στο εργαστήριο.&lt;/p&gt;
+</content><category term="workshop"></category><category term="R"></category><category term="SNAP"></category><category term="raster"></category><category term="stack"></category></entry></feed>

@@ -6,6 +6,7 @@ Collaborations
 :slug: synergasies
 :lang: en
 
+
        
 
 Postdoctoral researchers 
@@ -32,12 +33,12 @@ PhD Theses
 
 2. `Spyros Spyratos <https://www.linkedin.com/in/spyratos>`__ , 2017, The use of crowd-sourced geographic data in spatial planning), Scholarship of Joint Research Center (`thesis in EADD <https://www.didaktorika.gr/eadd/handle/10442/40494>`__).
 
+3. `Leonidas Liakos <https://www.geographer.gr>`_, 2021, Urban sprawl models and monitoring with remote sensing of night time lights, Scholarship of the State Scholarships Foundation (IKY) (`thesis in EADD <https://www.didaktorika.gr/eadd/handle/10442/50223>`__).
 
-*In progress:*:
 
-1. `Leonidas Liakos <https://www.geographer.gr>`_, Cholarship of the State Scholarships Foundation (IKY), Urban sprawl models and monitoring through remote sensing, starting year 2017.
+*In progress*:
 
-2. Vasileios Letsios, Cholarship of the State Scholarships Foundation (IKY) , Urban sprawl through Interferometry, starting year 2017
+1. Vasileios Letsios, Cholarship of the State Scholarships Foundation (IKY) , Urban sprawl through Interferometry, starting year 2017
 
 |
 

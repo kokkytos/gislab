@@ -54,6 +54,7 @@ THEME_STATIC_DIR = 'theme'
 THEME_STATIC_PATHS = ['static']
 CSS_FILE = 'main.css'
 
+
 LOAD_CONTENT_CACHE = False
 
 STATIC_PATHS = ['images','extra',]

@@ -32,15 +32,16 @@
 
 *ολοκληρωμένες*:
 
-1. Pramanik. M.(εξωτερικός συνεργάτης/ερευνητής), 2015,  Forecasting urban sprawl in Dhaka city of Bangladesh, υπότροφος ΙΚΥ (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/35648>`_).
+1. Pramanik. M.(εξωτερικός συνεργάτης/ερευνητής), 2015,  Forecasting urban sprawl in Dhaka city of Bangladesh, υπότροφος ΙΚΥ (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/35648>`__).
 
-2. `Σπύρος Σπυράτος <https://www.linkedin.com/in/spyratos>`_ , 2017, Η χρησιμότητα των συλλογικών γεωγραφικών δεδομένων στο χωρικό σχεδιασμό (The use of crowd-sourced geographic data in spatial planning), υπότροφος Joint Research Center (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/40494>`__).
+2. `Σπύρος Σπυράτος <https://www.linkedin.com/in/spyratos>`_, 2017, Η χρησιμότητα των συλλογικών γεωγραφικών δεδομένων στο χωρικό σχεδιασμό (The use of crowd-sourced geographic data in spatial planning), υπότροφος Joint Research Center (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/40494>`__).
+
+3. `Λεωνίδας Λιάκος <https://www.geographer.gr>`_, 2021, Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκόπηση νυκτερινών φώτων, υπότροφος ΙΚΥ (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/50223>`__).
+
 
 *σε εξελιξη*:
 
-1. `Λεωνίδας Λιάκος <https://www.geographer.gr>`_ (υπότροφος ΙΚΥ), Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκοπηση, έτος έναρξης 2017.
-
-2. Βασίλειος Λέτσιος (υπότροφος ΙΚΥ), Η αστική εξάπλωση μέσω της συμβολομετρίας, έτος έναρξης 2017.
+1. Βασίλειος Λέτσιος (υπότροφος ΙΚΥ), Η αστική εξάπλωση μέσω της συμβολομετρίας, έτος έναρξης 2017.
 
 |
 
