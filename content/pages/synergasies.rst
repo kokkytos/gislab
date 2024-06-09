@@ -19,14 +19,16 @@
 
 Οι ακόλουθες μεταδιδακτορικές έρευνες:
 
-1. Τριαντακωνσταντής Δ. <https://gr.linkedin.com/in/dimitrios-triantakonstantis-a6822736>`_, 2014-2015, Μεταδιδακτορική έρευνα στα πλαίσια των «Υποτροφιών ΙΚΥ – Πρόγραμμα SIEMENS», στην εξειδίκευση: «Αστικός Σχεδιασμός και Βιώσιμη Ανάπτυξη».
+1. `Τριαντακωνσταντής Δ. <https://gr.linkedin.com/in/dimitrios-triantakonstantis-a6822736>`_, 2014-2015, Μεταδιδακτορική έρευνα στα πλαίσια των «Υποτροφιών ΙΚΥ – Πρόγραμμα SIEMENS», στην εξειδίκευση: «Αστικός Σχεδιασμός και Βιώσιμη Ανάπτυξη».
 
-2. Μπαλτάς Παύλος <https://www.linkedin.com/in/pavlos-baltas-99084023/>`_, 2015–7, Μεταδιδακτορική έρευνα στα πλαίσια των «Υποτροφιών ΙΚΥ – Πρόγραμμα SIEMENS», στην εξειδίκευση: «Αστικός Σχεδιασμός και Βιώσιμη Ανάπτυξη».
+2. `Μπαλτάς Παύλος <https://www.linkedin.com/in/pavlos-baltas-99084023/>`_, 2015–7, Μεταδιδακτορική έρευνα στα πλαίσια των «Υποτροφιών ΙΚΥ – Πρόγραμμα SIEMENS», στην εξειδίκευση: «Αστικός Σχεδιασμός και Βιώσιμη Ανάπτυξη».
 
 Το εργαστήριο ακόμα έχει υποστηρίξει ολοκληρωμένα τέσσερις διδακτορικές διατριβές (όλες με υποτροφίες), συγκεκριμένα:
 
 
-1. Pramanik. M.(εξωτερικός συνεργάτης/ερευνητής), 2015,  Forecasting urban sprawl in Dhaka city of Bangladesh, υπότροφος ΙΚΥ (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/35648>`__).
+ 
+
+1. `Pramanik. M. <https://www.linkedin.com/in/md-monjure-alam-pramanik-34269066/>`_ (εξωτερικός συνεργάτης/ερευνητής), 2015,  Forecasting urban sprawl in Dhaka city of Bangladesh, υπότροφος ΙΚΥ (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/35648>`__).
 
 2. `Σπύρος Σπυράτος <https://www.linkedin.com/in/spyratos>`_, 2017, Η χρησιμότητα των συλλογικών γεωγραφικών δεδομένων στο χωρικό σχεδιασμό (The use of crowd-sourced geographic data in spatial planning), υπότροφος Joint Research Center (`η διατριβή στο ΕΑΔΔ <https://www.didaktorika.gr/eadd/handle/10442/40494>`__).
 
