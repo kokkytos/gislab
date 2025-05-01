@@ -39,6 +39,7 @@ MENUITEMS = (
     ('Συνεργασίες', '/pages/synergasies'),
     ('Υποδομή', '/pages/ypodomi'),
     ('Δραστηριότητες', '/category/drastiriotites.html'),
+    ('ΠΜΣ ΕΓΠ', '/pages/pms'),
 	#('Έρευνα', '/pages/ereyna'),
     #('Δημοσιεύσεις', '/pages/dimosieyseis'),
 	#('Δεδομένα', '/pages/data'),
