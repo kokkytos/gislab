@@ -104,4 +104,4 @@ cloud computing, την δορυφορική τηλεπισκόπηση, σε ε
 **Ιστοσελίδα του προγράμματος**: `http://www.prd.uth.gr/egis/ <http://www.prd.uth.gr/egis/>`_ (υπό κατασκευή)
 
 
-**Πληροφορίες**: τηλ: 24210 74444, email: pgrpr@prd.uth.gr
+**Πληροφορίες**: τηλ: 24210 74444, email: prdegis@uth.gr
