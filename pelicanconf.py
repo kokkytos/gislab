@@ -49,7 +49,7 @@ MENUITEMS = (
 
 THEME = "themes/pelican-blueidea"
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['assets','i18n_subsites']
+PLUGINS = ['assets','i18n_subsites', 'sitemap']
 #PLUGINS = ['assets']
 THEME_STATIC_DIR = 'theme'
 THEME_STATIC_PATHS = ['static']
@@ -154,3 +154,18 @@ GOOGLE_ANALYTICS = "UA-142147823-1"
 
 SUMMARY_MAX_LENGTH = 50
 
+
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
