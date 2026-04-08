@@ -10,10 +10,10 @@ jobs:
       contents: "read"
       pages: "write"
       id-token: "write"
-  with:
-        settings: "publishconf.py"
-        # This replaces your python subprocess script logic:
-        extra_args: "--extra-settings SITEURL='\"https://gislab.gr\"' FEED_DOMAIN='\"https://gislab.gr\"' --output output/ --theme-path .theme"
-        requirements: "pelican[markdown] typogrify pelican-sitemap webassets"
-        theme: "https://github.com/getpelican-themes/pelican-blueidea.git"
-        python: "3.12"
+    with:
+          settings: "publishconf.py"
+          # This replaces your python subprocess script logic:
+          extra_args: "--extra-settings SITEURL='\"https://gislab.gr\"' FEED_DOMAIN='\"https://gislab.gr\"' --output output/ --theme-path .theme"
+          requirements: "pelican[markdown] typogrify pelican-sitemap webassets"
+          theme: "https://github.com/getpelican-themes/pelican-blueidea.git"
+          python: "3.12"
