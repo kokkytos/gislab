@@ -11,9 +11,12 @@ jobs:
       pages: "write"
       id-token: "write"
     with:
-          settings: "publishconf.py"
-          # This replaces your python subprocess script logic:
-          extra_args: "--extra-settings SITEURL='\"https://gislab.gr\"' FEED_DOMAIN='\"https://gislab.gr\"' --output output/ --theme-path .theme"
-          requirements: "pelican[markdown] typogrify pelican-sitemap webassets"
-          theme: "https://github.com/getpelican-themes/pelican-blueidea.git"
-          python: "3.12"
+      settings: "publishconf.py"
+      requirements: >-
+        pelican[markdown]
+        typogrify
+        pelican-sitemap
+        git+https://github.com/getpelican/pelican-plugins.git#egg=pelican-assets&subdirectory=assets
+        git+https://github.com/getpelican/pelican-plugins.git#egg=pelican-i18n-subsites&subdirectory=i18n_subsites
+      theme: "https://github.com/getpelican-themes/pelican-blueidea.git"
+      python: "3.14"
