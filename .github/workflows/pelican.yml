@@ -11,12 +11,6 @@ jobs:
       pages: "write"
       id-token: "write"
     with:
-      settings: "pelicanconf.py"
-      requirements: >-
-        pelican[markdown]
-        typogrify
-        pelican-sitemap
-        git+https://github.com/getpelican/pelican-plugins.git#egg=pelican-assets&subdirectory=assets
-        git+https://github.com/getpelican/pelican-plugins.git#egg=pelican-i18n-subsites&subdirectory=i18n_subsites
+      settings: "publishconf.py"
       theme: "https://github.com/getpelican-themes/pelican-blueidea.git"
       python: "3.12"

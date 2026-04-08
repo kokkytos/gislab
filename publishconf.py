@@ -10,9 +10,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://www.gislab.gr'
+SITEURL = 'https://gislab.gr'
 RELATIVE_URLS = False
 
+FEED_DOMAIN = "https://gislab.gr"
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
