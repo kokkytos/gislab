@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://.gislab.gr/</loc>
-<lastmod>2026-05-21T10:21:10-00:00</lastmod>
+<lastmod>2026-05-24T15:11:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://.gislab.gr/tags.html</loc>
-<lastmod>2026-05-21T10:21:10-00:00</lastmod>
+<lastmod>2026-05-24T15:11:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://.gislab.gr/categories.html</loc>
-<lastmod>2026-05-21T10:21:10-00:00</lastmod>
+<lastmod>2026-05-24T15:11:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://.gislab.gr/authors.html</loc>
-<lastmod>2026-05-21T10:21:10-00:00</lastmod>
+<lastmod>2026-05-24T15:11:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://.gislab.gr/archives.html</loc>
-<lastmod>2026-05-21T10:21:10-00:00</lastmod>
+<lastmod>2026-05-24T15:11:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://.gislab.gr/pages/contact/</loc>
 <lastmod>2018-03-21T10:20:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://.gislab.gr/pages/gaiopolis/</loc>
+<lastmod>2026-05-26T10:20:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
