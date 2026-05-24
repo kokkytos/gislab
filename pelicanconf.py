@@ -63,6 +63,8 @@ EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/index.html': {'path': 'osm_map/index.html'},
     'extra/index_en.html': {'path': 'osm_map/index_en.html'},
+    'extra/gaiopolis_map/index.html': {'path': 'gaiopolis_map/index.html'},
+    'extra/gaiopolis_map/index_en.html': {'path': 'gaiopolis_map/index_en.html'},
 }
 READERS = {'html': None}
 
