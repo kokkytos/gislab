@@ -4,140 +4,140 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://.gislab.gr/en/</loc>
-<lastmod>2026-11-10T10:55:18-00:00</lastmod>
+<loc>https://gislab.gr/en/</loc>
+<lastmod>2026-11-10T11:45:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tags.html</loc>
-<lastmod>2026-11-10T10:55:18-00:00</lastmod>
+<loc>https://gislab.gr/en/tags.html</loc>
+<lastmod>2026-11-10T11:45:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/categories.html</loc>
-<lastmod>2026-11-10T10:55:18-00:00</lastmod>
+<loc>https://gislab.gr/en/categories.html</loc>
+<lastmod>2026-11-10T11:45:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/authors.html</loc>
-<lastmod>2026-11-10T10:55:18-00:00</lastmod>
+<loc>https://gislab.gr/en/authors.html</loc>
+<lastmod>2026-11-10T11:45:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/archives.html</loc>
-<lastmod>2026-11-10T10:55:18-00:00</lastmod>
+<loc>https://gislab.gr/en/archives.html</loc>
+<lastmod>2026-11-10T11:45:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/pages/contact/</loc>
+<loc>https://gislab.gr/en/pages/contact/</loc>
 <lastmod>2018-03-21T10:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/pages/index/</loc>
+<loc>https://gislab.gr/en/pages/index/</loc>
 <lastmod>2018-03-21T10:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/pages/prosopiko/</loc>
+<loc>https://gislab.gr/en/pages/prosopiko/</loc>
 <lastmod>2018-03-21T10:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/pages/synergasies/</loc>
+<loc>https://gislab.gr/en/pages/synergasies/</loc>
 <lastmod>2018-03-21T10:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/pages/ypodomi/</loc>
+<loc>https://gislab.gr/en/pages/ypodomi/</loc>
 <lastmod>2018-03-21T10:20:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/hellasgi.html</loc>
+<loc>https://gislab.gr/en/hellasgi.html</loc>
 <lastmod>2020-11-20T12:40:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/workshop.html</loc>
+<loc>https://gislab.gr/en/workshop.html</loc>
 <lastmod>2010-10-04T18:40:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/category/drastiriotites.html</loc>
+<loc>https://gislab.gr/en/category/drastiriotites.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tag/workshop.html</loc>
+<loc>https://gislab.gr/en/tag/workshop.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tag/r.html</loc>
+<loc>https://gislab.gr/en/tag/r.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tag/raster.html</loc>
+<loc>https://gislab.gr/en/tag/raster.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tag/stack.html</loc>
+<loc>https://gislab.gr/en/tag/stack.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tag/hellasgi.html</loc>
+<loc>https://gislab.gr/en/tag/hellasgi.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/tag/snap.html</loc>
+<loc>https://gislab.gr/en/tag/snap.html</loc>
 <lastmod>2019-06-15T23:00:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://.gislab.gr/en/author/leonidas-liakos.html</loc>
+<loc>https://gislab.gr/en/author/leonidas-liakos.html</loc>
 <lastmod>2020-11-20T12:40:00+01:35</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
