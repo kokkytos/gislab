@@ -58,7 +58,14 @@ CSS_FILE = 'main.css'
 
 LOAD_CONTENT_CACHE = False
 
-STATIC_PATHS = ['images','extra','extra/CNAME',]
+STATIC_PATHS = ['images','extra','extra/CNAME','secondary']
+
+
+# Prevent Pelican from trying to parse them as markdown/content
+ARTICLE_EXCLUDES = ['secondary']
+PAGE_EXCLUDES = ['secondary']
+
+
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/index.html': {'path': 'osm_map/index.html'},
@@ -66,6 +73,8 @@ EXTRA_PATH_METADATA = {
     'extra/gaiopolis_map/index.html': {'path': 'gaiopolis_map/index.html'},
     'extra/gaiopolis_map/index_en.html': {'path': 'gaiopolis_map/index_en.html'},
 }
+
+
 READERS = {'html': None}
 
 PAGE_URL = 'pages/{slug}/'
